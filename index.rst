@@ -1,12 +1,23 @@
 Welcome to Hawaii Travel Guide's documentation!
 ===============================================
 
+We know all about Hawaii.
+
+Learn more:
+
 .. toctree::
    :maxdepth: 2
+   :caption: Guide
 
    kauai
    maui
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Blog
+   :glob:
+
+   blog/*
 
 **Hawaii** (`Hawaiian`_: *Hawaiʻi*, sometimes pronounced
 *ha-VAI-ee* by locals) is the 50th state of the `United States of
