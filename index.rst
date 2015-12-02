@@ -10,6 +10,7 @@ Learn all about the wonders of Hawii in our sweet travel guide.
    hawaii
    kauai
    maui
+   oahu
 
 .. toctree::
    :maxdepth: 2
