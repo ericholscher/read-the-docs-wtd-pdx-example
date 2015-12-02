@@ -18,5 +18,5 @@ Learn more:
    :caption: Blog
    :glob:
 
-   blog/*
+   blog/index
 
