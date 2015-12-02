@@ -1,4 +1,4 @@
-### Crime
+### Crime Update
 
 Theft is a big problem in cities as well as beaches and parks. If you
 are camping on a beach, keep bags locked in a car (but don't assume that
