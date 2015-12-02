@@ -1,9 +1,7 @@
 Welcome to Hawaii Travel Guide's documentation!
 ===============================================
 
-We know all about Hawaii.
-
-Learn more:
+Learn all about the wonders of Hawii in our sweet travel guide.
 
 .. toctree::
    :maxdepth: 2
