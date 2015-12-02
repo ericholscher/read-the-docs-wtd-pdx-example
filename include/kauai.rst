@@ -7,7 +7,7 @@ Na Pali Coast. As a consequence of its age, Kauai also has more miles of
 sandy coastline than the other Hawaiian islands.
 
 Cities
-------
+~~~~~~
 
 * **Kapa`a**, on the east side, about a 20 minute drive north of Lihu`e, is the largest population center on the island. 
 * **Lihu`e**, on the island's southeast side, is the civic and commercial center of the island
@@ -17,7 +17,7 @@ Cities
 
 
 Tourist Information
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 In many ways, Kauai is different from the rest of the islands. It's almost as if you've stepped into a separate kingdom, and for many years Kauai was just that in relation to Hawaii. Kamehameha I was able to conquer all the islands by force, except Kauai. Two separate campaigns to take the island ended in failure. In the end, it took diplomacy, a royal kidnapping, and an arranged marriage to bring Kauai into the kingdom of Hawaii.
 

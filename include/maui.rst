@@ -4,7 +4,7 @@ the United States of America. It is the second largest of the eight
 major islands.
 
 Cities
-------
+~~~~~~
 
 -  Hana -- a small isolated town on the rugged eastern coast of Maui.
    It is well known for its 52 mile scenic drive which connects it to
@@ -52,7 +52,7 @@ Cities
 
 
 Tourist Information
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 Though English is mainly used in Maui, the language of Maui is the same as the entire island of Hawaii. The Hawaii pidgin language originates from Polynesian languages. It is part of an Austronesian language family, which are languages that are widely dispersed through Southeast Asia and the Pacific. Some languages that helped create the Hawaiian pidgin are English, Chinese, Japanese, Filipino, Portuguese, and several others. The Hawaiian alphabet consists of 13 characters. There are five vowels and eight consonants (h, k,l,m,n, p, w and apostrophe). An apostrophe I usually used as an Okina, which is moral of a glottal stop or a catch in the throat. Learning some pronunciation and words of Hawaii can help tremendously during a visit to Maui:
 
