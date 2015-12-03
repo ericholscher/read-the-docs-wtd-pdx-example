@@ -1,6 +1,11 @@
 Hawaii
 ======
 
+This is a `new` *para*.
+
+.. index::
+   single: state; hawaii
+
 **Hawaii** (`Hawaiian`_: *Hawaiʻi*, sometimes pronounced
 *ha-VAI-ee* by locals) is the 50th state of the `United States of
 America`_. Situated nearly at the center of the north Pacific Ocean,
